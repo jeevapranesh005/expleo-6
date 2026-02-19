@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 1.sriram
+=======
+<<<<<<< HEAD
+nothing
+=======
+1.sriram
+2.jeeva
+<<<<<<< HEAD
+3.Muhindhar
+=======
+>>>>>>> 6cfc2a17610a6c18f0926303a08474befbe586e4
+>>>>>>> 49ce274a35f57f22ed17cb650b19885ac5797691
+4. Successfully doing
+5. hello
+>>>>>>> d5da85f9708809f2e53a32aa4e0f97faba63d0f3
+
+^-^RISHWANTH ADHISHWAR K
